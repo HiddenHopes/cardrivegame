@@ -17,5 +17,6 @@ public class Car {
 
        if(key == 39) x = x + 5;
        if(key == 37) x = x - 5;
+ 	if(key == 38) x = x + 5;
     }
 }

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="cardrivegame:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cardrivegame_jar</output-path>
+    <root id="archive" name="cardrivegame.jar">
+      <element id="module-output" name="cardrivegame" />
+      <element id="module-source" name="cardrivegame" />
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+    </root>
+  </artifact>
+</component>
